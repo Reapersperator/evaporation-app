@@ -1,0 +1,6 @@
+POSTGRES_USER=testuser
+POSTGRES_PASSWORD=testpassword
+POSTGRES_DB=evapo_db
+DATABASE_URL=postgresql://testuser:testpassword@db:5432/evapo_db
+host=172.23.0.2
+port=5432
