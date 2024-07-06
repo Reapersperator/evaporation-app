@@ -1,0 +1,12 @@
+psycopg2-binary
+dash
+dash-bootstrap-components
+pandas
+python-dotenv
+geopandas
+openmeteo_requests
+retry_requests
+plotly
+fastparquet
+pyarrow
+requests_cache

@@ -1,0 +1,4 @@
+DATABASE_URL=postgresql://testuser:testpassword@db:5432/evapo_db
+POSTGRES_USER=testuser
+POSTGRES_PASSWORD=testpassword
+POSTGRES_DB=evapo_db
